@@ -1,0 +1,10 @@
+C:\Users\Steev\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\Steev\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\Steev\source\repos\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.GameServerForm.resources
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.cache
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\Steev\source\repos\GameServer\GameServer\obj\Debug\GameServer.pdb
